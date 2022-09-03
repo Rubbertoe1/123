@@ -1,3 +1,4 @@
+wait(20)
 --Wait until game loads
 repeat
     wait()
